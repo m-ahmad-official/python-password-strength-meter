@@ -1,3 +1,3 @@
-# Project 03: Password Strength Meter
+# Project 02:
 
-## This is my third python project
+## Password Strength Meter
